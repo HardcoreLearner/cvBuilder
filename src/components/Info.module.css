@@ -1,0 +1,22 @@
+.infoHolder {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0e374e;
+    color: white;
+}
+
+.contactInfo {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+
+.contactDivs {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+}

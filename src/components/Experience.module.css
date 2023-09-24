@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.sectionTitle {
+    color: #0e374e;
+    font-size: 20px;
+    background-color: #1440461f;
+    font-weight: bold;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.expContainer {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+}
+
+.job {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.info {
+    flex-shrink: 0;
+}

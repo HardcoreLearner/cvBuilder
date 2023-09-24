@@ -1,0 +1,123 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    background-color: white;
+    padding: 18px;
+    width: 100%;
+    gap: 6px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+.modifForm {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 3px;
+}
+
+.modiLabel {
+    font-weight: bold;
+}
+
+.modiInp {
+    border: 0;
+    border-radius: 12px;
+    background-color: #f8f8f8;
+    height: 40px;
+}
+
+.descArea {
+    border: 0;
+    border-radius: 12px;
+    background-color: #f8f8f8;
+    height: 80px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.date {
+    display: flex;
+    gap: 6px;
+    width: 100%;
+}
+
+.dateItem {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    width: 100%;
+}
+
+
+.expTitle {
+    padding: 0;
+    margin: 0;
+}
+
+.expTitleHolder {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.modiBtns {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+    padding: 5px;
+}
+
+.modiBtns button {
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.bt1 {
+    background-color: red;
+}
+
+.bt2 {
+    background-color: blue;
+}
+
+.editButton {
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #0e374e;
+    width: 20%;
+}
+
+.addExpBtn {
+    margin-top: 10px;
+    align-self: center;
+    border: 0;
+    color: white;
+    background-color: #0e374e;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 14px;
+    font-weight: bold;
+    border-radius: 18px;
+}
