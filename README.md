@@ -10,29 +10,29 @@ Build and customize your professional CV with ease using this web application de
 - Download your CV as a high-quality PDF document.
 - Export and share your CV with potential employers effortlessly.
 
-🛠️ Technologies Used:
+## 🛠️ Technologies Used:
 - React: Front-end development for a responsive and dynamic user experience.
 - jsPDF: A JavaScript library to generate PDF files in the browser.
 - html2canvas: Convert HTML elements to canvas and then to a PDF.
 
-🚧 Getting Started:
+## 🚧 Getting Started:
 1. Clone this repository.
 2. Install the required dependencies with `npm install`.
 3. Start the development server with `npm start`.
 4. Build your CV, customize it, and download as a PDF!
 
-📝 Contribution Guidelines:
+## 📝 Contribution Guidelines:
 Contributions, bug reports, and feature requests are welcome! Please follow our [Contribution Guidelines](CONTRIBUTING.md) to contribute to this project.
 
-📄 Documentation:
+## 📄 Documentation:
 Check out the re for detailed documentation on how to use the CV builder and customize it for your needs.
 
-📢 Have a question or need help?
+## 📢 Have a question or need help?
 Feel free to open an issue or join the discussion in the [Discussions](https://github.com/yourusername/your-repo/discussions) section.
 
-👏 We appreciate your support and contributions. Let's build better CVs together!
+## 👏 We appreciate your support and contributions. Let's build better CVs together!
 
-📝 License:
+## 📝 License:
 This project is licensed under the [MIT License](LICENSE).
 
 
