@@ -1,8 +1,8 @@
-📄 CV Builder App with React, jsPDF, and html2canvas 🚀
+# 📄 CV Builder App with React, jsPDF, and html2canvas 🚀
 
 Build and customize your professional CV with ease using this web application developed with React. Create visually appealing resumes and download them as PDF files with just a click, thanks to the power of jsPDF and html2canvas integration.
 
-🌟 Features:
+## 🌟 Features:
 - User-friendly CV builder with an intuitive interface.
 - Easily add, edit, and arrange sections like contact information, education, work experience, skills, and more.
 - Customize the design and layout of your CV to match your style.
